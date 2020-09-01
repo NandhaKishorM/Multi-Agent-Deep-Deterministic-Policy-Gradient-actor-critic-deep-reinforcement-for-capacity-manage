@@ -1,4 +1,4 @@
-# Multi-Agent-Deep-Deterministic-Policy-Gradient-actor-critic-deep-reinforcement-for-capacity-management
+# Multi-Agent-Deep-Deterministic-Policy-Gradient-actor-critic-deep-reinforcement-learning-for-capacity-management
 ## Installation
 1. Install anaconda python
 https://anaconda.org/
